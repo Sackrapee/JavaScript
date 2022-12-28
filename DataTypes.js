@@ -4,4 +4,8 @@ const str = "Hello World" ;
 const b = ture;
 const employee = {
     firstName: "Anirach"
-}
+    lastName: "Mingkhwan"
+
+};
+
+function sayHello()
